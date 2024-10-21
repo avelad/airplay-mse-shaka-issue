@@ -1,0 +1,9 @@
+body {
+  background-color: #404953;
+  color: #FFFFFF;
+}
+
+.player-container {
+  height: 480px;
+  width: 640px;
+}
